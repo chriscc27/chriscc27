@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="assets/banner.jpg" alt="Banner" width="100%">
+</p>
+
+---
+
+<p align="center">
   <h1 align="center" style="font-size: 36px;">Hi, I'm Christian Coronel 👋</h1>
 </p>
 
